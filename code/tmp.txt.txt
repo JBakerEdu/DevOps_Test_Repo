@@ -1,0 +1,37 @@
+CheatSheets
+Git Cheat Sheet - https://education.github.com/git-cheat-sheet-education.pdf
+
+Bash Cheat Sheet - https://github.com/RehanSaeed/Bash-Cheat-Sheet
+
+Markdown Cheat Sheet - https://www.markdownguide.org/cheat-sheet/
+
+VIM Cheatsheet - https://linuxhandbook.com/vim-cheat-sheet/
+
+Changing name and email in git
+git config user.name "Your name here"
+
+git config user.email "your@email.here"
+
+VM Arguments
+--module-path "${eclipse_home}/javafx-sdk/lib"  
+
+--add-modules javafx.controls,javafx.fxml 
+
+Git for Windows (GitBash)
+https://git-scm.com/downloads/win
+
+Git for MacOS
+OhMyZsh is a terminal option for Mac OS similar to GitBash. https://ohmyz.sh/#install
+
+BashCrawl
+BashCrawl is a game designed to help learn the basics of using a Linux style terminal. 
+
+https://gitlab.com/slackermedia/bashcrawl
+
+Maven
+https://maven.apache.org/download.cgi
+
+Setting Path Variable
+https://www.java.com/en/download/help/path.html
+
+Last modified: Thursday, January 16, 2025, 10:29 AM
